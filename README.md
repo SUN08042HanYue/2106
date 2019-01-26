@@ -6,7 +6,7 @@ here is test edit
 * item2
 * item 3
 
-## haed2
+## heading 2
 
 ### heading 3
 
