@@ -5,7 +5,6 @@ Zhao Zuoyan  :smile:
 * Hong Kong Baptist University
 * International Journalism
 * Final Year
-* Data Journalist
 * I am an audit student for JOUR 2106, so possibly cannot join any of the group projects...but feel free to contact me ah! XD
 
 # Previous data journalism stories
