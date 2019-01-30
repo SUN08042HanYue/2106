@@ -35,6 +35,4 @@ https://www.caixinglobal.com/2018-05-24/chart-how-tariff-cut-will-impact-price-o
 
 # Skills
 
-Photoshop, Illustrator, Basic web scraping
-
-Wanna know more about me, please check out my LinkedIn page: https://www.linkedin.com/in/zuoyan-z-a379a5152/
+Photoshop, Illustrator, Basic web scraping, but nothing about coding(sorry!)
