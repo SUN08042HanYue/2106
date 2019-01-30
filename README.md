@@ -10,6 +10,7 @@ Zhao Zuoyan  :smile:
 # Previous data journalism works
 
 ![](https://images.shobserver.com/news/690_390/2018/11/11/1ef2b358-62ac-43ea-9288-1890a93719c5.png)
+https://www.jfdaily.com/news/detail?id=116095
   
 
 # Skills
